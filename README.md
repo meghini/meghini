@@ -1,12 +1,13 @@
 
+
 <h1 align="center">hey, i'm meg! 🎀</h1>
 
 <p align="center">
-  <i>learning, creating and turning coffee into code.</i>
+  <i>learning, creating and turning ideas into code.</i>
 </p>
 
 <p align="center">
-  💻 ADS student | aspiring developer
+  💻 Systems Analysis and Development student
   <br>
   🇧🇷 Brazil
 </p>
@@ -15,25 +16,25 @@
 
 ### 🖤 about me
 
-- 🎓 Studying Systems Analysis and Development
-- 💻 Currently learning HTML, CSS and JavaScript
-- 🌱 Exploring front-end development
-- 🎨 I love creating things and bringing ideas to life
-- 🎧 Coding with music always playing
+- 🎓 Studying Systems Analysis and Development (ADS)
+- 💻 Currently learning HTML and CSS
+- 🌱 Interested in front-end development
+- 🎨 I love creating websites and bringing ideas to life
+- 🎧 Music enthusiast and technology lover
 
 ### 💗 technologies & tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,vscode,github" />
 </p>
 
 ### 🎀 featured project
 
 **Café da Esquina**
 
-A website project developed using HTML and CSS.
+My first web development project, built with HTML and CSS.
 
-[→ Check out the project](https://github.com/meghini/CafeDaEsquina)
+<a href="https://github.com/meghini/CafeDaEsquina">→ Check out the project</a>
 
 ### 🖤 GitHub stats
 
